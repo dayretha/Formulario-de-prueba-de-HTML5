@@ -42,4 +42,4 @@ Color favorito: <input type="color" name="color_control" />
 </p>
 </form>
 </body>
-</html>
+
